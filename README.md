@@ -21,9 +21,9 @@
 
 ### Requirements
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 Make sure you have:
 
@@ -35,16 +35,16 @@ Make sure you have:
 
 ### Data Ingestion & Indexing
 
-\`\`\`bash
+```bash
 python app/trial_ingest.py
 python app/vectorize.py
-\`\`\`
+```
 
 ### Run the App
 
-\`\`\`bash
+```bash
 streamlit run app/main.py
-\`\`\`
+```
 
 ## 🛠 Key Files
 
