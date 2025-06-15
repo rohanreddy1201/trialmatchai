@@ -1,0 +1,11 @@
+# Ignore data files
+data/*.pkl
+data/*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+.venv/

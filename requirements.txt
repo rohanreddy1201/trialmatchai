@@ -1,0 +1,5 @@
+streamlit>=1.25.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.8.1.post2
+requests>=2.31.0
+Pillow>=10.0.0
