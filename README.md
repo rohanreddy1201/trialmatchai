@@ -17,12 +17,6 @@
 <kbd><img src="app/docs/image3.png" width="400"></kbd>
 <kbd><img src="app/docs/image4.png" width="400"></kbd>
 
-## 📥 Downloadable PDF
-
-You can download the full screenshot set here:
-
-[📄 TrialMatchAI Screenshots PDF](app/docs/trialmatchai_screenshots.pdf)
-
 ## 🚀 Getting Started
 
 ### Requirements
